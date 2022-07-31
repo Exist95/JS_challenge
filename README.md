@@ -1,2 +1,2 @@
-# JS_chaalenge
-JS_chaalenge
+# JS_challenge
+JS_challenge
