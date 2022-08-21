@@ -12,3 +12,4 @@ const planets = {
 console.log(planets["토성"]);
 console.log(planets["천왕성"]);
 console.log(planets["지구"]);
+
